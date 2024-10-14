@@ -1,0 +1,50 @@
+#container1{
+   background-image:url(https://i.pinimg.com/originals/f7/8c/fe/f78cfee700902ef7a10f67ead8b72590.png);
+   box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.8);
+   background-size: cover;
+   fo
+}
+
+#container2{
+   
+   background-color: #966c4b;
+   background-image: url('https://preview.redd.it/p5ipeyufl2071.png?width=7662&format=png&auto=webp&s=bc386d7255fbece783c612b6f1983ace67414481');
+   box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.8);
+}
+
+#container2a{
+   background-image: url(https://th.bing.com/th/id/R.cb1ec97eeccf1941587352817cb11958?rik=OU1NNl%2fdVXTg%2bw&riu=http%3a%2f%2fstatic1.squarespace.com%2fstatic%2f5e8069db01e19f52326a4289%2f5ec601d04f70a700f9e2c460%2f644699e7e9a6141fac234acc%2f1682348530449%2fIMG_4687.jpg%3fformat%3d1500w&ehk=Gyl8M6g2qcu%2bZ9oPSph54OQXjOVGc58pa7gF6yvCy%2f0%3d&risl=&pid=ImgRaw&r=0);
+   width: 90px;
+   padding: 50px, 50px;
+
+}
+
+#container3{
+   background-color: black;
+   background-image: url(https://static.vecteezy.com/system/resources/previews/029/283/921/original/desert-camo-camouflage-pattern-three-color-vector.jpg);
+   box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.8);
+}
+
+#container4{
+   background-color: #c7ab5d;
+   background-image: url(https://th.bing.com/th/id/OIP.YR3jIs26vSbYHXHPfzKTkAHaHa?rs=1&pid=ImgDetMain);
+   box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.8);
+}
+
+#container5{
+   background-color: #;
+   background-image: url(https://htmlcolorcodes.com/assets/images/colors/tan-color-solid-background-1920x1080.png);
+   box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.8);
+}
+
+body{
+   background-image: url(https://media.cntraveler.com/photos/5eb18e42fc043ed5d9779733/16:9/w_2580,c_limit/BlackForest-Germany-GettyImages-147180370.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-attachment: fixed;
+}
+
+#BUY :D{
+   border-radius: 10px;
+   cursor: pointer;
+}
